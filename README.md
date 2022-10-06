@@ -1,6 +1,6 @@
 # WeatherAppUI
 
-### Tek sayfalık bir hava durumu tasarım uygulaması.
+### Weather App UI - ConstraintLayout, LinearLayout
  You can access the design from the activity_main xml
 
 <p align="left">
