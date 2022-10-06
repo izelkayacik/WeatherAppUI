@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/iztuka/AndroidStudioProjects/WeatherApp/app/src/main/res/drawable/gradient_bg.xml" value="0.2703125" />
+        <entry key="..\:/Users/iztuka/AndroidStudioProjects/WeatherApp/app/src/main/res/drawable/ic_compass.xml" value="0.2703125" />
+        <entry key="..\:/Users/iztuka/AndroidStudioProjects/WeatherApp/app/src/main/res/drawable/ic_home.xml" value="0.2703125" />
+        <entry key="..\:/Users/iztuka/AndroidStudioProjects/WeatherApp/app/src/main/res/drawable/ic_save.xml" value="0.2703125" />
+        <entry key="..\:/Users/iztuka/AndroidStudioProjects/WeatherApp/app/src/main/res/drawable/ic_setting.xml" value="0.2703125" />
+        <entry key="..\:/Users/iztuka/AndroidStudioProjects/WeatherApp/app/src/main/res/drawable/ic_settings.xml" value="0.2703125" />
+        <entry key="..\:/Users/iztuka/AndroidStudioProjects/WeatherApp/app/src/main/res/drawable/round_corner.xml" value="0.2703125" />
+        <entry key="..\:/Users/iztuka/AndroidStudioProjects/WeatherApp/app/src/main/res/layout-v23/activity_main.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/iztuka/AndroidStudioProjects/WeatherApp/app/src/main/res/layout/activity_main.xml" value="0.4" />
+        <entry key="..\:/Users/iztuka/AndroidStudioProjects/WeatherApp/app/src/main/res/layout/gradient_bg.xml" value="0.1793478260869565" />
+        <entry key="..\:/Users/iztuka/AndroidStudioProjects/WeatherApp/app/src/main/res/layout/test.xml" value="0.2" />
+        <entry key="..\:/Users/iztuka/AndroidStudioProjects/WeatherApp/app/src/main/res/menu/bottom_nav_menu.xml" value="0.25416666666666665" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
